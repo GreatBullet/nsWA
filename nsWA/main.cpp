@@ -25,10 +25,10 @@ int main(int argc, char** argv) {
 		system(CommandConcatinationVariable.c_str());
 		CommandConcatinationVariable = "slmgr /ato";
 		system(CommandConcatinationVariable.c_str());
-		
+		WriteHosts();
+		ReadHosts();
 	}
-	WriteHosts();
-	ReadHosts();
+
 	return 0;
 }
 void WriteHosts() { // A Safety measure 
