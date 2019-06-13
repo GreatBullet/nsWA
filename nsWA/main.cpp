@@ -1,7 +1,8 @@
-   // not sucking Windows Activator, nsWA //
-  //Does What it says or at least it will// Now it does :).
- //_____________________________________//  Greetings from GreatBullet //
-// I developed this Program because Microsoft restricts my legal License after a Hardware change, and i am not willing to rebuild my old System, nor do i call the Hotline and waste my Time once again. 
+    // not sucking Windows Activator, nsWA //
+   //Does What it says or at least it will// Now it does :).
+  //_____________________________________//  Greetings from GreatBullet //
+ // I developed this Program because Microsoft restricts my legal License after a Hardware change. 
+//I am not willing to rebuild my old System, nor do i call the Hotline and waste my Time once again. 
 #include <iostream>
 #include <fstream>
 #include <sstream>
